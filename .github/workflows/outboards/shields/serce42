@@ -3,5 +3,5 @@
 
 outboard_repository=hakanserce/zmk-config
 outboard_ref=master
-outboard_from=boards/shields/serce42
+outboard_from=config/boards/shields/serce42
 outboard_to=boards/shields/serce42
